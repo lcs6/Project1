@@ -89,14 +89,14 @@ textarea {
    ========================================================================== */
 #wrapper {
   width: 960px;
-    margin-left: auto;
-      margin-right: auto;
-      }
+  margin-left: auto;
+  margin-right: auto;
+}
 
 #logo {
   float: left;
-  width: ;
-  height: ;
+  width: 527px;
+  height: 271px;
 }
 
 .float_left {
@@ -120,15 +120,13 @@ textarea {
 
 #content {
   background-color:cyan;
+  
 }
 
 #footer {
   background-color: green;
 }
 
-#footer {
-  background-color: green;
-}
 .callout {
   width: 310px;
   padding-left: 10px;
